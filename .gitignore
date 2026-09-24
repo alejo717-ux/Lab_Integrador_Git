@@ -1,8 +1,9 @@
-# Ignorar binarios de Java y C#
+# Ignorar binarios
 out/
 bin/
 obj/
 
-# Ignorar configuración de IntelliJ
+# Ignorar configuración de IDEs
 .idea/
 *.iml
+.vs/
